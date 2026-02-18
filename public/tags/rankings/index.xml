@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rankings on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/rankings/</link>
+    <description>Recent content in Rankings on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rankings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The academic job market presents a more diverse set of choices in 2022</title>
+      <link>http://localhost:1313/blog/academic-job-market-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/academic-job-market-2022/</guid>
+      <description>Analysis of the increasing geographic diversity of top management research institutions worldwide.</description>
+    </item>
+    <item>
+      <title>Research and teaching in business schools: Can the two go together</title>
+      <link>http://localhost:1313/blog/research-teaching-business-schools/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research-teaching-business-schools/</guid>
+      <description>Data analysis showing the positive correlation between research output and teaching quality in business schools.</description>
+    </item>
+    <item>
+      <title>The Improving State of Management Research in Europe (An Academic Post)</title>
+      <link>http://localhost:1313/blog/improving-state-management-research-europe/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/improving-state-management-research-europe/</guid>
+      <description>Data showing how European and Asian business schools have been catching up in management research output.</description>
+    </item>
+  </channel>
+</rss>

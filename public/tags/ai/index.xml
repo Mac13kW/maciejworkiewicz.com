@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-AI collaboration: The power of mental models</title>
+      <link>http://localhost:1313/blog/human-ai-collaboration-mental-models/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/human-ai-collaboration-mental-models/</guid>
+      <description>An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.</description>
+    </item>
+    <item>
+      <title>Merging Minds and Machines: A Manifesto for the AI-Enhanced Workforce</title>
+      <link>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</guid>
+      <description>A mini-manifesto for companies seeking to benefit from AI technology, based on the tension between exploration and exploitation.</description>
+    </item>
+    <item>
+      <title>A reading list</title>
+      <link>http://localhost:1313/blog/reading-list/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/reading-list/</guid>
+      <description>A curated reading list spanning business strategy, decision-making, geopolitics, AI, philosophy of science, and more.</description>
+    </item>
+  </channel>
+</rss>

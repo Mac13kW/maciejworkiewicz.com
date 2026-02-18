@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chatgpt on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/chatgpt/</link>
+    <description>Recent content in Chatgpt on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merging Minds and Machines: A Manifesto for the AI-Enhanced Workforce</title>
+      <link>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</guid>
+      <description>A mini-manifesto for companies seeking to benefit from AI technology, based on the tension between exploration and exploitation.</description>
+    </item>
+  </channel>
+</rss>

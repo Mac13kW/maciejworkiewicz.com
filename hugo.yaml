@@ -1,0 +1,52 @@
+baseURL: "https://www.maciejworkiewicz.com/"
+languageCode: en-us
+title: "Maciej Workiewicz"
+theme: "PaperMod"
+
+mainSections: [""]
+
+params:
+  defaultTheme: light
+  socialIcons:
+    - name: github
+      url: "https://github.com/Mac13kW"
+    - name: email
+      url: "mailto:workiewicz@essec.edu"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: videos
+      name: Videos
+      url: /videos/
+      weight: 30
+    - identifier: coding
+      name: Coding
+      url: /coding/
+      weight: 40
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DeepSeek on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/deepseek/</link>
+    <description>Recent content in DeepSeek on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-AI collaboration: The power of mental models</title>
+      <link>http://localhost:1313/blog/human-ai-collaboration-mental-models/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/human-ai-collaboration-mental-models/</guid>
+      <description>An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.</description>
+    </item>
+  </channel>
+</rss>

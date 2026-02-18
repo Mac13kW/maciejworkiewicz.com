@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Organizational Theory on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/organizational-theory/</link>
+    <description>Recent content in Organizational Theory on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/organizational-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping James G. March&#39;s ideas</title>
+      <link>http://localhost:1313/blog/mapping-march-ideas/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mapping-march-ideas/</guid>
+      <description>Literature and theory maps of James G. March&amp;#39;s vast body of work.</description>
+    </item>
+  </channel>
+</rss>

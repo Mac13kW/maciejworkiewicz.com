@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Maciej Workiewicz</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-AI collaboration: The power of mental models</title>
+      <link>http://localhost:1313/blog/human-ai-collaboration-mental-models/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/human-ai-collaboration-mental-models/</guid>
+      <description>An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.</description>
+    </item>
+    <item>
+      <title>Fresh thinking: Why opening your windows could boost your remote work performance</title>
+      <link>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</guid>
+      <description>How indoor CO2 levels affect cognitive performance and why remote workers should pay attention to ventilation.</description>
+    </item>
+    <item>
+      <title>Online Teaching During the Pandemic: Insights and Lessons Learned</title>
+      <link>http://localhost:1313/blog/online-teaching-pandemic/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/online-teaching-pandemic/</guid>
+      <description>Insights from student surveys and personal experience about what worked and what didn&amp;#39;t in online teaching during the pandemic.</description>
+    </item>
+    <item>
+      <title>Merging Minds and Machines: A Manifesto for the AI-Enhanced Workforce</title>
+      <link>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</guid>
+      <description>A mini-manifesto for companies seeking to benefit from AI technology, based on the tension between exploration and exploitation.</description>
+    </item>
+    <item>
+      <title>The academic job market presents a more diverse set of choices in 2022</title>
+      <link>http://localhost:1313/blog/academic-job-market-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/academic-job-market-2022/</guid>
+      <description>Analysis of the increasing geographic diversity of top management research institutions worldwide.</description>
+    </item>
+    <item>
+      <title>How to move to online teaching (fast)</title>
+      <link>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</guid>
+      <description>A comprehensive guide to quickly transitioning to online teaching, covering software, hardware, and best practices.</description>
+    </item>
+    <item>
+      <title>Research and teaching in business schools: Can the two go together</title>
+      <link>http://localhost:1313/blog/research-teaching-business-schools/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research-teaching-business-schools/</guid>
+      <description>Data analysis showing the positive correlation between research output and teaching quality in business schools.</description>
+    </item>
+    <item>
+      <title>The Improving State of Management Research in Europe (An Academic Post)</title>
+      <link>http://localhost:1313/blog/improving-state-management-research-europe/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/improving-state-management-research-europe/</guid>
+      <description>Data showing how European and Asian business schools have been catching up in management research output.</description>
+    </item>
+    <item>
+      <title>A reading list</title>
+      <link>http://localhost:1313/blog/reading-list/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/reading-list/</guid>
+      <description>A curated reading list spanning business strategy, decision-making, geopolitics, AI, philosophy of science, and more.</description>
+    </item>
+    <item>
+      <title>On the pleasures of wasting time or on recreating March 1991 original code</title>
+      <link>http://localhost:1313/blog/march-1991-original-code/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/march-1991-original-code/</guid>
+      <description>Recreating the famous March 1991 Exploration and Exploitation model in Python.</description>
+    </item>
+    <item>
+      <title>GitHub: exploring the benefits and limits of the boss-less organizational form</title>
+      <link>http://localhost:1313/blog/github-bossless-organizational-form/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/github-bossless-organizational-form/</guid>
+      <description>Discussion of GitHub&amp;#39;s transition from a boss-less structure to traditional hierarchy, published in the Journal of Organization Design.</description>
+    </item>
+    <item>
+      <title>Behavioral Strategy Wiki site launches</title>
+      <link>http://localhost:1313/blog/behavioral-strategy-wiki-launches/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/behavioral-strategy-wiki-launches/</guid>
+      <description>Launch announcement for the Behavioral Strategy Wiki, an interactive literature matrix for the behavioral strategy community.</description>
+    </item>
+    <item>
+      <title>Mapping James G. March&#39;s ideas</title>
+      <link>http://localhost:1313/blog/mapping-march-ideas/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mapping-march-ideas/</guid>
+      <description>Literature and theory maps of James G. March&amp;#39;s vast body of work.</description>
+    </item>
+    <item>
+      <title>Mapping the ideas of Professor Sidney Winter</title>
+      <link>http://localhost:1313/blog/mapping-sidney-winter-ideas/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mapping-sidney-winter-ideas/</guid>
+      <description>A literature map of Professor Sidney Winter&amp;#39;s key ideas on routines, capabilities, and evolutionary economics.</description>
+    </item>
+    <item>
+      <title>Readings on flat management</title>
+      <link>http://localhost:1313/blog/readings-flat-management/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/readings-flat-management/</guid>
+      <description>A curated list of readings on self-organizing and flat management structures.</description>
+    </item>
+    <item>
+      <title>Is having two bosses like not having bosses at all?</title>
+      <link>http://localhost:1313/blog/two-bosses-no-bosses/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/two-bosses-no-bosses/</guid>
+      <description>Exploring the parallels and differences between matrix organizations with multiple bosses and boss-less organizations.</description>
+    </item>
+    <item>
+      <title>At Zappos 210 employees say &#34;no&#34; to &#34;no bosses&#34;</title>
+      <link>http://localhost:1313/blog/zappos-no-bosses/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/zappos-no-bosses/</guid>
+      <description>Commentary on Zappos&amp;#39; transition to holacracy and the 14% of employees who chose to leave.</description>
+    </item>
+    <item>
+      <title>&#34;Unfortunately god gave all the easy problems to the physicists&#34; - James G. March</title>
+      <link>http://localhost:1313/blog/march-easy-problems-physicists/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/march-easy-problems-physicists/</guid>
+      <description>A brief reflection on the difficulty of studying organizations, with a link to a brilliant comment by James G. March.</description>
+    </item>
+  </channel>
+</rss>

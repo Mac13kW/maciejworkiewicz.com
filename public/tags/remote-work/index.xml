@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Remote Work on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/remote-work/</link>
+    <description>Recent content in Remote Work on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fresh thinking: Why opening your windows could boost your remote work performance</title>
+      <link>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</guid>
+      <description>How indoor CO2 levels affect cognitive performance and why remote workers should pay attention to ventilation.</description>
+    </item>
+  </channel>
+</rss>

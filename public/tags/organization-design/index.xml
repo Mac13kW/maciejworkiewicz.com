@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Organization Design on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/organization-design/</link>
+    <description>Recent content in Organization Design on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/organization-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub: exploring the benefits and limits of the boss-less organizational form</title>
+      <link>http://localhost:1313/blog/github-bossless-organizational-form/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/github-bossless-organizational-form/</guid>
+      <description>Discussion of GitHub&amp;#39;s transition from a boss-less structure to traditional hierarchy, published in the Journal of Organization Design.</description>
+    </item>
+    <item>
+      <title>Readings on flat management</title>
+      <link>http://localhost:1313/blog/readings-flat-management/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/readings-flat-management/</guid>
+      <description>A curated list of readings on self-organizing and flat management structures.</description>
+    </item>
+    <item>
+      <title>Is having two bosses like not having bosses at all?</title>
+      <link>http://localhost:1313/blog/two-bosses-no-bosses/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/two-bosses-no-bosses/</guid>
+      <description>Exploring the parallels and differences between matrix organizations with multiple bosses and boss-less organizations.</description>
+    </item>
+    <item>
+      <title>At Zappos 210 employees say &#34;no&#34; to &#34;no bosses&#34;</title>
+      <link>http://localhost:1313/blog/zappos-no-bosses/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/zappos-no-bosses/</guid>
+      <description>Commentary on Zappos&amp;#39; transition to holacracy and the 14% of employees who chose to leave.</description>
+    </item>
+  </channel>
+</rss>

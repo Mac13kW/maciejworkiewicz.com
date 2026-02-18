@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matrix Organization on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/matrix-organization/</link>
+    <description>Recent content in Matrix Organization on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/matrix-organization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is having two bosses like not having bosses at all?</title>
+      <link>http://localhost:1313/blog/two-bosses-no-bosses/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/two-bosses-no-bosses/</guid>
+      <description>Exploring the parallels and differences between matrix organizations with multiple bosses and boss-less organizations.</description>
+    </item>
+  </channel>
+</rss>

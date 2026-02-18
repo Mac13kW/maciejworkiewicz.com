@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="light">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Human-AI collaboration: The power of mental models | Maciej Workiewicz</title>
+<meta name="keywords" content="AI, problem solving, GPT-4, GPT-o1, DeepSeek, chess">
+<meta name="description" content="An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/blog/human-ai-collaboration-mental-models/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/human-ai-collaboration-mental-models/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Maciej Workiewicz (Alt + H)">Maciej Workiewicz</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/research/" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/videos/" title="Videos">
+                    <span>Videos</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/coding/" title="Coding">
+                    <span>Coding</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Human-AI collaboration: The power of mental models
+    </h1>
+    <div class="post-description">
+      An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.
+    </div>
+    <div class="post-meta"><span title='2023-12-15 00:00:00 +0000 UTC'>December 15, 2023</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>A lot has been recently said about the tremendous impact that the current generation of large language models (LLMs) has and will have in the future on the functioning of organizations and competitive dynamics between them. A particularly intriguing prospect is the potential of these AI systems to eventually take on roles traditionally reserved for humans, like developing business strategies. While, at least to me, the answer to this question largely depends on the timeframe we assume until the full Artificial General Intelligence arrives, the intermediate period of collaboration between humans and AI also presents important questions regarding the nature of this collaboration and areas in which current LLMs still fall short.</p>
+<p>Numerous studies have demonstrated remarkable productivity gains in managerial tasks when augmented by technologies like <a href="https://openai.com/index/gpt-4/">GPT-4</a> or the new crop of &ldquo;reasoning&rdquo; AI models like <a href="https://openai.com/o1/">GPT-o1</a> and <a href="https://www.deepseek.com/">DeepSeek</a>. These AI systems excel in processing vast datasets, solving problems in areas like mathematics, economics, and logical reasoning, or helping me copy-edit this article. However, when it comes to strategic decision-making—a subject I am deeply interested in and engage with both in research and teaching—there remain certain limitations to what current AIs can achieve. One of them is strategic foresight using mental models.</p>
+<p>Strategic foresight requires a type and level of abstract thinking that current LLMs were not built to handle. This involves developing and using mental models that, while being simplified representations of reality, capture the critical elements of a real-world environment (see, for example, the excellent book by Newell and Simon [1972], who were awarded the Turing Award for creating the first AI programs). Interestingly, even very complex problems can be represented with only a few key parameters and be effective for guiding strategic decision-making (see Scott Page&rsquo;s 2018 &ldquo;The Model Thinker&rdquo; for example). These models enable decision-makers to envision future scenarios and respond proactively to evolving market dynamics where data is not yet available.</p>
+<p>Take the Nokia case in 2007, for instance. Despite being a leader in mobile phone manufacturing, Nokia failed to anticipate the industry&rsquo;s shift towards smartphones, a change signaled by the launch of the iPhone in January that year. In 2007, Nokia was the absolute market leader when it came to mobile phone manufacturing and smartphone manufacturing. Magazines like Forbes have been openly doubting whether any company can ever catch up with the Finnish mobile manufacturer. However, the company didn&rsquo;t consider that change to the competitive landscape that the iPhone heralded. As mobile phones became more and more capable, they effectively became computers. Thus, the competitive advantage that was the source of success for mobile phone manufacturers, like manufacturing prowess, supply chain management, and relationships with mobile service providers, became less important, and capabilities characteristic of the computer industry, like software development and managing relationships with software developers to build platforms, became key. Working through the implications of such a change could have alerted the management to the shift in the competitive landscape. I am not claiming here that this is the only explanation for the company&rsquo;s subsequent fall from grace, but there&rsquo;s an important lesson about understanding or having the right representation of the environment – a representation that can be subsequently manipulated in one&rsquo;s head to help think through the implications of changes in that environment.</p>
+<p>To illustrate how LLMs fail at this, I conducted a little experiment with GPT-4 in December 2023 and repeated it with GPT-o1 and the new DeepSeek R1 in January 2025, the latest iterations and arguably the most powerful of the new crop of LLMs. In this experiment, I asked the AI to consider a game of chess. First, I asked which player, White or Black, would be more likely to win a game of chess. GPT-4 correctly reported that while the chances of winning depended mostly on the skill of the players, if the players were evenly matched, the White player would have a slight advantage over the Black player, just because the White player moves first, and therefore has one more move and can also dictate the style and tempo of the game. The empirical record supports this. So far, so good.</p>
+<p>Then I asked GPT-4 to consider two types of changes to the chessboard. In the first scenario, I asked AI to consider a cylindrical chessboard where the top and the bottom edge connect so that by stepping beyond the top edge, a piece would appear at the bottom and vice versa. In the second manipulation, I asked GPT-4 to consider a toroidal chessboard. A torus is an object where the top and the bottom edges meet and so do the left with the right edge, thus creating a continuous space. The resulting object has the shape of a doughnut with a hole in the middle.</p>
+<h4 id="figure-1-a-traditional-chessboard">Figure 1. A traditional chessboard<a hidden class="anchor" aria-hidden="true" href="#figure-1-a-traditional-chessboard">#</a></h4>
+<p><img alt="image" loading="lazy" src="/images/18_chess_wiki.jpg"></p>
+<p>If you have ever played the Snake game on the standard Nokia phone, you recognize this type of space, where the snake loops over the edges. Then I asked GPT-4 to consider which player &ndash; assuming other rules remain the same as in the classical game &ndash; would win such a game on average.</p>
+<p>Now, here I want you to stop for a moment and consider such a change. Imagine such a chessboard. You can start with the cylindrical one. Consider your first move as a White player. You can move forward as in the normal game of chess, but pieces can also move backward. Taking a step back would make you pop up at the top. Think about the moves that you can execute in such a situation. Take a minute. It will be worth it. Got it? OK, what do we get?</p>
+<p>If you have played chess before or if you think through this example carefully, you will quickly realize that a White player always wins on such a chessboard. This is because the White player can simply move the king one step back, thus capturing the opponent&rsquo;s king in the first move! Once you consider this, it becomes obvious.</p>
+<p>However, not for GPT-4, which doesn&rsquo;t have a mental model of the playing board in its digital brain. It simply assembles sentences using its algorithms based on the training set of texts (I know this is a gross oversimplification of how a generative pre-trained transformer works, but you get my point).</p>
+<p>Interestingly, another generative AI, Midjourney, also doesn&rsquo;t have a representation of even the classical board of chess. I could not make it create an image of a chessboard with pieces in initial positions. Neither can DALL·E 3 via GPT-4.</p>
+<h4 id="figure-2-midjourneys-attempts-at-classical-chessboard">Figure 2. Midjourney&rsquo;s attempts at classical chessboard<a hidden class="anchor" aria-hidden="true" href="#figure-2-midjourneys-attempts-at-classical-chessboard">#</a></h4>
+<p><img alt="image" loading="lazy" src="/images/18_chess_2.png"></p>
+<p>Note: the instruction was: &ldquo;Show me a photorealistic classical chessboard with all the pieces set up to start the game of chess. All pieces are in their initial positions.&rdquo;</p>
+<h4 id="figure-3-dalle-3-attempt-at-the-classical-chessboard">Figure 3. DALL·E 3 attempt at the classical chessboard<a hidden class="anchor" aria-hidden="true" href="#figure-3-dalle-3-attempt-at-the-classical-chessboard">#</a></h4>
+<p><img alt="image" loading="lazy" src="/images/18_dalle_chess.png"></p>
+<p>When I asked GPT-4 what would happen after the board has been changed in one of these two ways, it replied that it would most likely profoundly change the strategies available to the two players, but one cannot predict which player would win; however, the white player can still maintain a slight advantage in such a situation. I did this several times for both the cylindrical and the toroidal board and received essentially the same response.</p>
+<p>This experiment is not intended to diminish the remarkable capabilities of LLMs but to highlight the crucial role of human insight in strategic decision-making. As we embrace these technologies, managers, students, and aspiring leaders need to cultivate the ability to think abstractly and develop a comprehensive understanding of competitive dynamics. This skill remains invaluable in a world where AI aids but does not replace the strategic acumen of human decision-makers. As we continue to leverage AI technologies, we must also commit to refining our strategic thinking skills with particular emphasis on building a robust set of mental models to help us understand and foresee changes in the environment. In this way, both players, humans and AI, win. For now.</p>
+<h4 id="figure-4---examples-of-the-gpt-4-experiment">Figure 4 - Examples of the GPT-4 experiment<a hidden class="anchor" aria-hidden="true" href="#figure-4---examples-of-the-gpt-4-experiment">#</a></h4>
+<p><img alt="image" loading="lazy" src="/images/18_GPT_chess.png"></p>
+<p>I repeated the same exercise with GPT-o1 - the reasoning model. I asked it exactly the same questions. It got it wrong as well. Like before, it argued that the White player has a slight advantage due to simply moving first. Here is the concise answer I got from it:</p>
+<p><em>Even with the board’s top and bottom wrapped, White still retains a slight advantage by moving first, although the altered geometry changes the nature (but not the existence) of that advantage.</em></p>
+<p>The same happened with DeepSeek. It even claimed that:</p>
+<p><em>While White still holds a slight edge due to the first move, the advantage is smaller than in traditional chess. The cylindrical board’s increased tactical complexity and defensive options for Black (e.g., king mobility, counter-wrapping attacks) narrow the gap. However, White’s ability to initiate early threats in a high-mobility environment likely preserves a marginal win-rate advantage—closer to 50-50, but with White slightly favored (e.g., 51-49%).</em></p>
+<!-- TODO: Add Figure 5 - Examples of the GPT-o1 experiment -->
+<h4 id="figure-5---examples-of-the-deepseek-experiment">Figure 5 - Examples of the DeepSeek experiment<a hidden class="anchor" aria-hidden="true" href="#figure-5---examples-of-the-deepseek-experiment">#</a></h4>
+<p><img alt="image" loading="lazy" src="/images/18_DeepSeek_chess.png"></p>
+<p>This is a space to watch. However, this type of reasoning, which is important from the point of view of strategic thinking and problem-solving, seems elusive for these models. For now.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/ai/">AI</a></li>
+      <li><a href="http://localhost:1313/tags/problem-solving/">Problem Solving</a></li>
+      <li><a href="http://localhost:1313/tags/gpt-4/">GPT-4</a></li>
+      <li><a href="http://localhost:1313/tags/gpt-o1/">GPT-O1</a></li>
+      <li><a href="http://localhost:1313/tags/deepseek/">DeepSeek</a></li>
+      <li><a href="http://localhost:1313/tags/chess/">Chess</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Maciej Workiewicz</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pandemic on Maciej Workiewicz</title>
+    <link>http://localhost:1313/tags/pandemic/</link>
+    <description>Recent content in Pandemic on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pandemic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Teaching During the Pandemic: Insights and Lessons Learned</title>
+      <link>http://localhost:1313/blog/online-teaching-pandemic/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/online-teaching-pandemic/</guid>
+      <description>Insights from student surveys and personal experience about what worked and what didn&amp;#39;t in online teaching during the pandemic.</description>
+    </item>
+    <item>
+      <title>How to move to online teaching (fast)</title>
+      <link>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</guid>
+      <description>A comprehensive guide to quickly transitioning to online teaching, covering software, hardware, and best practices.</description>
+    </item>
+  </channel>
+</rss>

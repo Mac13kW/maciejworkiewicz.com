@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maciej Workiewicz</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Maciej Workiewicz</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-AI collaboration: The power of mental models</title>
+      <link>http://localhost:1313/blog/human-ai-collaboration-mental-models/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/human-ai-collaboration-mental-models/</guid>
+      <description>An experiment showing how LLMs fail at spatial reasoning with modified chessboards, highlighting the importance of mental models in strategic thinking.</description>
+    </item>
+    <item>
+      <title>Fresh thinking: Why opening your windows could boost your remote work performance</title>
+      <link>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fresh-thinking-co2-remote-work/</guid>
+      <description>How indoor CO2 levels affect cognitive performance and why remote workers should pay attention to ventilation.</description>
+    </item>
+    <item>
+      <title>Online Teaching During the Pandemic: Insights and Lessons Learned</title>
+      <link>http://localhost:1313/blog/online-teaching-pandemic/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/online-teaching-pandemic/</guid>
+      <description>Insights from student surveys and personal experience about what worked and what didn&amp;#39;t in online teaching during the pandemic.</description>
+    </item>
+    <item>
+      <title>Merging Minds and Machines: A Manifesto for the AI-Enhanced Workforce</title>
+      <link>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/merging-minds-machines-ai-manifesto/</guid>
+      <description>A mini-manifesto for companies seeking to benefit from AI technology, based on the tension between exploration and exploitation.</description>
+    </item>
+    <item>
+      <title>The academic job market presents a more diverse set of choices in 2022</title>
+      <link>http://localhost:1313/blog/academic-job-market-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/academic-job-market-2022/</guid>
+      <description>Analysis of the increasing geographic diversity of top management research institutions worldwide.</description>
+    </item>
+    <item>
+      <title>How to move to online teaching (fast)</title>
+      <link>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/how-to-move-to-online-teaching-fast/</guid>
+      <description>A comprehensive guide to quickly transitioning to online teaching, covering software, hardware, and best practices.</description>
+    </item>
+    <item>
+      <title>Research and teaching in business schools: Can the two go together</title>
+      <link>http://localhost:1313/blog/research-teaching-business-schools/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/research-teaching-business-schools/</guid>
+      <description>Data analysis showing the positive correlation between research output and teaching quality in business schools.</description>
+    </item>
+    <item>
+      <title>The Improving State of Management Research in Europe (An Academic Post)</title>
+      <link>http://localhost:1313/blog/improving-state-management-research-europe/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/improving-state-management-research-europe/</guid>
+      <description>Data showing how European and Asian business schools have been catching up in management research output.</description>
+    </item>
+    <item>
+      <title>A reading list</title>
+      <link>http://localhost:1313/blog/reading-list/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/reading-list/</guid>
+      <description>A curated reading list spanning business strategy, decision-making, geopolitics, AI, philosophy of science, and more.</description>
+    </item>
+    <item>
+      <title>On the pleasures of wasting time or on recreating March 1991 original code</title>
+      <link>http://localhost:1313/blog/march-1991-original-code/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/march-1991-original-code/</guid>
+      <description>Recreating the famous March 1991 Exploration and Exploitation model in Python.</description>
+    </item>
+    <item>
+      <title>GitHub: exploring the benefits and limits of the boss-less organizational form</title>
+      <link>http://localhost:1313/blog/github-bossless-organizational-form/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/github-bossless-organizational-form/</guid>
+      <description>Discussion of GitHub&amp;#39;s transition from a boss-less structure to traditional hierarchy, published in the Journal of Organization Design.</description>
+    </item>
+    <item>
+      <title>Behavioral Strategy Wiki site launches</title>
+      <link>http://localhost:1313/blog/behavioral-strategy-wiki-launches/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/behavioral-strategy-wiki-launches/</guid>
+      <description>Launch announcement for the Behavioral Strategy Wiki, an interactive literature matrix for the behavioral strategy community.</description>
+    </item>
+    <item>
+      <title>Mapping James G. March&#39;s ideas</title>
+      <link>http://localhost:1313/blog/mapping-march-ideas/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mapping-march-ideas/</guid>
+      <description>Literature and theory maps of James G. March&amp;#39;s vast body of work.</description>
+    </item>
+    <item>
+      <title>Mapping the ideas of Professor Sidney Winter</title>
+      <link>http://localhost:1313/blog/mapping-sidney-winter-ideas/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mapping-sidney-winter-ideas/</guid>
+      <description>A literature map of Professor Sidney Winter&amp;#39;s key ideas on routines, capabilities, and evolutionary economics.</description>
+    </item>
+    <item>
+      <title>Readings on flat management</title>
+      <link>http://localhost:1313/blog/readings-flat-management/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/readings-flat-management/</guid>
+      <description>A curated list of readings on self-organizing and flat management structures.</description>
+    </item>
+    <item>
+      <title>Is having two bosses like not having bosses at all?</title>
+      <link>http://localhost:1313/blog/two-bosses-no-bosses/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/two-bosses-no-bosses/</guid>
+      <description>Exploring the parallels and differences between matrix organizations with multiple bosses and boss-less organizations.</description>
+    </item>
+    <item>
+      <title>At Zappos 210 employees say &#34;no&#34; to &#34;no bosses&#34;</title>
+      <link>http://localhost:1313/blog/zappos-no-bosses/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/zappos-no-bosses/</guid>
+      <description>Commentary on Zappos&amp;#39; transition to holacracy and the 14% of employees who chose to leave.</description>
+    </item>
+    <item>
+      <title>&#34;Unfortunately god gave all the easy problems to the physicists&#34; - James G. March</title>
+      <link>http://localhost:1313/blog/march-easy-problems-physicists/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/march-easy-problems-physicists/</guid>
+      <description>A brief reflection on the difficulty of studying organizations, with a link to a brilliant comment by James G. March.</description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/coding/</guid>
+      <description>&lt;p&gt;Even basic knowledge of computer programming can be very valuable for a social scientist. There are two key functionalities that are especially useful - automation and the random number generator. The first one is pretty straightforward; it increases researcher&amp;rsquo;s productivity by having the computer perform tasks that would otherwise have to be completed manually. Modern programming languages like &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt; or &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R&lt;/a&gt; offer many powerful tools like data collection using web crawlers and text extraction from PDFs to data management and analysis, machine learning, and data visualization. Furthermore, with the development of modern powerful Large Language Models, like GPT-4, coding has never been easier and it will only get better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/images/my_picture.JPG&#34; alt=&#34;Maciej Workiewicz&#34; style=&#34;float: right; margin: 0 0 1em 1.5em; width: 200px; border-radius: 4px;&#34;&gt;
+&lt;h2 id=&#34;academic-positions&#34;&gt;Academic Positions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 - present: Associate Professor of Management, ESSEC Business School&lt;/li&gt;
+&lt;li&gt;2016 - 2019: Assistant Professor of Management, ESSEC Business School&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;clear: both; text-align: left;&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/cv_jan_2026.pdf&#34;&gt;Download CV (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD in Management, INSEAD, France, 2017&lt;/li&gt;
+&lt;li&gt;MBA, INSEAD, France, 2008&lt;/li&gt;
+&lt;li&gt;M.A. International Economics and Politics, Warsaw School Of Economics, Poland, 1998-2002&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior Editor at Organization Science (since 2025)&lt;/li&gt;
+&lt;li&gt;Editorial Board Member, Journal of Organization Design (since 2018), Organization Science (since 2021), Strategy Science (since 2020), and Strategic Management Journal (since 2023)&lt;/li&gt;
+&lt;li&gt;Associate Editor, Journal of Organization Design (since 2021)&lt;/li&gt;
+&lt;li&gt;Representative at Large for the Behavioral Strategy Interest Group at the Strategic Management Society (2023-2025)&lt;/li&gt;
+&lt;li&gt;Elected to the STR Teaching Committee (TC) at the Academy of Management (2021-2023)&lt;/li&gt;
+&lt;li&gt;Guest Editor, Journal of Organization Design, Special Issue: Fading Hierarchies and the Emergence of New Forms of Organization&lt;/li&gt;
+&lt;li&gt;Ad-hoc reviewer for the Academy of Management Journal, Academy of Management Review, Management Science, and Strategic Organization&lt;/li&gt;
+&lt;li&gt;Representative at Large for the Competitive Strategy Interest Group at the Strategic Management Society (2020-2021)&lt;/li&gt;
+&lt;li&gt;Track Chair and Session Chair (BPS) Academy of Management annual conference, Atlanta GA, 2017&lt;/li&gt;
+&lt;li&gt;Reviewer for Academy of Management Annual Meeting, and Strategic Management Society Annual Conference since 2012&lt;/li&gt;
+&lt;li&gt;Co-organizer of an Annual ODC Conference &amp;ldquo;Organization Design in the Age of Artificial Intelligence&amp;rdquo;, Harvard Business School, August 11, 2019&lt;/li&gt;
+&lt;li&gt;Produced and conducted a video interview with Professor James G. March for the Knowledge and Innovation Interest Group of the SMS (September 2013)&lt;/li&gt;
+&lt;li&gt;Produced and conducted a video interview with Professor Sidney G. Winter for the Knowledge and Innovation Interest Group of the SMS (November 2011)&lt;/li&gt;
+&lt;li&gt;Member of Academy of Management, Organization Design Community, Strategic Management Society, and Theoretical Organizational Models Society&lt;/li&gt;
+&lt;li&gt;Co-developed and maintains the &lt;a href=&#34;http://www.behavioralstrategywiki.org&#34;&gt;Behavioral Strategy Wiki&lt;/a&gt; - SMS Behavioral Strategy IG initiative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Winner of the Behavioral Strategy Interest Group Best Paper Award and The Conference Best Paper Finalist at the Annual SMS Conference in San Francisco for &amp;ldquo;The Influence Of Prior Knowledge: How Existing Knowledge Characteristics Moderate Learning From New Hires&amp;rdquo;, 2025&lt;/li&gt;
+&lt;li&gt;Outstanding ERB Reviewer Award, Strategic Management Journal, 2024&lt;/li&gt;
+&lt;li&gt;Awarded Dean&amp;rsquo;s Scholar Grant, ESSEC Business School, 2023&lt;/li&gt;
+&lt;li&gt;Outstanding ERB Reviewer Award, Organization Science, 2023&lt;/li&gt;
+&lt;li&gt;Awarded Scientific Committee Research Grant for a project &amp;ldquo;Beyond Artificial Intelligence&amp;rdquo;, 2023&lt;/li&gt;
+&lt;li&gt;Recipient of the ESSEC Foundation Daniel Tixier Pedagogical Experience Award, 2023&lt;/li&gt;
+&lt;li&gt;Honorable Mention for the paper &amp;ldquo;A Cognitive Model of Problemistic Search&amp;rdquo; (with T. Keil and H. Posen) for the Behavioral Strategy IG at the SMS Annual Conference in Minneapolis, MN (2019)&lt;/li&gt;
+&lt;li&gt;Received the ESSEC Foundation&amp;rsquo;s Teaching Award: voted the most favored professor in the 2017-2018 academic year; nominated for the most favored professor in the 2016-2017 academic year&lt;/li&gt;
+&lt;li&gt;Nomination for the SMS Annual Conference Best Paper Prize for &amp;ldquo;Project screening and resource allocation in boss-less firms&amp;rdquo;, Houston, 2017&lt;/li&gt;
+&lt;li&gt;Nomination for the Best Paper at the Academy of Management Meeting (BPS Division), 2014&lt;/li&gt;
+&lt;li&gt;Outstanding Reviewer Awards: Academy of Management, STR Division, 2023; Strategic Management Society, Knowledge and Innovation Interest Group, 2014 and 2016; Academy of Management, OMT Division, 2013&lt;/li&gt;
+&lt;li&gt;Scholarships: INSEAD - full funding for the Wharton campus exchange (2013); INSEAD - full funding for the Emerging Scholars Workshop at the Mack Institute for Innovation Management, Philadelphia, PA (2012)&lt;/li&gt;
+&lt;li&gt;Awarded &amp;ldquo;Passed with Distinction&amp;rdquo; in the Ph.D. Strategy Comprehensive Exam, INSEAD, 2012&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Maciej Workiewicz</title>
+      <link>http://localhost:1313/_index_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_index_old/</guid>
+      <description>Associate Professor of Management at ESSEC Business School</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;Organization design, Behavioral strategy, Organizational learning and adaptation, Future of work and organizations, Artificial Intelligence, Formal theory, Complex systems&lt;/p&gt;
+&lt;h2 id=&#34;publications-in-refereed-journals&#34;&gt;Publications in Refereed Journals&lt;/h2&gt;
+&lt;p&gt;(Authors in alphabetical order unless mentioned otherwise)&lt;/p&gt;
+&lt;div style=&#34;font-size: 0.9rem;&#34;&gt;
+&lt;p&gt;Sengul M. &amp;amp; Workiewicz M. forthcoming. &lt;strong&gt;Co-Managing In Multi-Subsidiary Firms: The Role Of Complementary And Substitutive Interdependencies.&lt;/strong&gt; &lt;em&gt;Organization Science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Pham D. &amp;amp; Rios L. &amp;amp; Workiewicz M. forthcoming. &lt;strong&gt;When do firms learn by hiring? How complexity moderates the value of new knowledge.&lt;/strong&gt; &lt;em&gt;Strategic Management Journal.&lt;/em&gt; &lt;a href=&#34;https://sms.onlinelibrary.wiley.com/doi/full/10.1002/smj.70061&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/videos/</guid>
+      <description>&lt;h2 id=&#34;interviews-on-the-foundations-of-organizational-knowledge-and-innovation&#34;&gt;Interviews on the foundations of organizational knowledge and innovation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;interview-with-james-g-march-2013&#34;&gt;Interview with James G. March (2013)&lt;/h3&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PwgOiE4DAzA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;We met with professor &lt;a href=&#34;http://www.gsb.stanford.edu/faculty-research/faculty/james-g-march&#34;&gt;James G. March&lt;/a&gt; from the Stanford Graduate School of Business to talk about his work, ideas, search for knowledge and managerial relevance of academic research. Professor March has published over 200 books and articles, his work shaping the way management scholars think about organizations. The garbage can model, the behavioral theory of the firm and balancing exploration and exploitation are only a few of his groundbreaking ideas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
