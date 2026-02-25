@@ -11,7 +11,7 @@ I am an Associate Professor of Management at [ESSEC Business School](http://www.
 (My name is pronounced [MA-chay], rhymes with "way" or "day".)
 
 
-In my research, I focus on behavioral strategy and specifically on adaptive properties of organizations - systems of distributed but interdependent cognition, knowledge, and action. I examine the processes by which organizational structure influences behavior within organizations. This includes learning, decision-making, and responding to changes in their competitive, cooperative, and technological environments.
+In my research, I focus on behavioral strategy, particularly the adaptive properties of organizations - systems of distributed but interdependent cognition, knowledge, and action. I examine how organizational structure influences behavior within and between organizations. My work explores processes such as organizational search, learning, and decision-making in uncertain and complex environments.
 
 ---
 
@@ -25,4 +25,4 @@ FRANCE
 EMAIL: [workiewicz@essec.edu](mailto:workiewicz@essec.edu)  
 Phone: +33 1 3443 3021
 
-Visit the SMS Behavioral Strategy Interest Group's website - [Behavioral Strategy Wiki](http://www.behavioralstrategywiki.org)
+Visit the SMS Behavioral Strategy Interest Group's website - [<span style="color: #90EE90;">Behavioral Strategy Wiki</span>](http://www.behavioralstrategywiki.org)

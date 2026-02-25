@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 
 ---
 
-<img src="/images/my_picture.JPG" alt="Maciej Workiewicz" style="float: right; margin: 0 0 1em 1.5em; width: 200px; border-radius: 4px;">
+<img src="/images/my_picture.JPG" alt="Maciej Workiewicz" style="float: right; margin: 0 0 1em 1.5em; width: 200px; border-radius: 16px;">
 
 
 ## Academic Positions
@@ -29,8 +29,8 @@ title: "Curriculum Vitae"
 ## Service
 
 - Senior Editor at Organization Science (since 2025)
+- Associate Editor, Journal of Organization Design (2021-2026)
 - Editorial Board Member, Journal of Organization Design (since 2018), Organization Science (since 2021), Strategy Science (since 2020), and Strategic Management Journal (since 2023)
-- Associate Editor, Journal of Organization Design (since 2021)
 - Representative at Large for the Behavioral Strategy Interest Group at the Strategic Management Society (2023-2025)
 - Elected to the STR Teaching Committee (TC) at the Academy of Management (2021-2023)
 - Guest Editor, Journal of Organization Design, Special Issue: Fading Hierarchies and the Emergence of New Forms of Organization

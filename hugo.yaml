@@ -6,7 +6,7 @@ theme: "PaperMod"
 mainSections: [""]
 
 params:
-  defaultTheme: light
+  defaultTheme: dark
   socialIcons:
     - name: github
       url: "https://github.com/Mac13kW"

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="light">
+<html lang="en" dir="auto" data-theme="dark">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,8 +29,8 @@
     </style>
 </noscript>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
+    if (localStorage.getItem("pref-theme") === "light") {
+        document.querySelector("html").dataset.theme = 'light';
     }
 
 </script>
@@ -111,6 +111,10 @@
   </header> 
   <div class="post-content"><p>Even basic knowledge of computer programming can be very valuable for a social scientist. There are two key functionalities that are especially useful - automation and the random number generator. The first one is pretty straightforward; it increases researcher&rsquo;s productivity by having the computer perform tasks that would otherwise have to be completed manually. Modern programming languages like <a href="https://www.python.org/">Python</a> or <a href="https://www.r-project.org/">R</a> offer many powerful tools like data collection using web crawlers and text extraction from PDFs to data management and analysis, machine learning, and data visualization. Furthermore, with the development of modern powerful Large Language Models, like GPT-4, coding has never been easier and it will only get better.</p>
 <p>The second functionality - the random number generator - opens doors to computational modeling and <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method">Monte Carlo</a> analysis, among others. While not as popular as empirical research methods, computational modeling is a powerful tool in helping us to better understand complex phenomena.</p>
+<p>I would also like to caution here against relying on Large Language Models (LLMs) indiscriminately in our modeling workflows. While these tools are valuable for many coding tasks, such as debugging or answering procedural questions, they should be treated as technical assistants rather than replacements for core analytical work.</p>
+<p>For example, it is reasonable to use LLMs for routine tasks like &ldquo;How do I save a matrix to a CSV file?&rdquo; or when we need to understand someone else&rsquo;s code. However, when developing the actual models of our phenomena of interest, we must engage in the process ourselves. This is more difficult, but that is precisely the point: modeling forces us to grapple with mechanisms and often yields deeper insights.</p>
+<p>Moreover, writing the models ourselves strengthens our conceptual understanding. Over time, repeated implementation allows us to internalize the logic allowing us to run the models in our heads, at least for some parameter values. This skill improves both research and debugging intuition. It also teaches us to be precise and systematic in our thinking. It is a mental gym.</p>
+<p>By delegating core modeling tasks (e.g., writing an NK model) entirely to LLMs, we risk introducing subtle errors (check these implied interaction matrices!), more importantly, miss out on this critical learning process. We should use these tools strategically, leveraging their strengths while preserving our own intellectual engagement with the material.</p>
 <p>Links to my projects on <a href="https://github.com/Mac13kW">GitHub</a>.</p>
 <hr>
 <h3 id="a-basic-nk-model"><a href="https://github.com/Mac13kW/NK_model">A Basic NK Model</a><a hidden class="anchor" aria-hidden="true" href="#a-basic-nk-model">#</a></h3>

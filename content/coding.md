@@ -7,6 +7,14 @@ Even basic knowledge of computer programming can be very valuable for a social s
 
 The second functionality - the random number generator - opens doors to computational modeling and [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) analysis, among others. While not as popular as empirical research methods, computational modeling is a powerful tool in helping us to better understand complex phenomena.
 
+I would also like to caution here against relying on Large Language Models (LLMs) indiscriminately in our modeling workflows. While these tools are valuable for many coding tasks, such as debugging or answering procedural questions, they should be treated as technical assistants rather than replacements for core analytical work.
+
+For example, it is reasonable to use LLMs for routine tasks like "How do I save a matrix to a CSV file?" or when we need to understand someone else's code. However, when developing the actual models of our phenomena of interest, we must engage in the process ourselves. This is more difficult, but that is precisely the point: modeling forces us to grapple with mechanisms and often yields deeper insights.
+
+Moreover, writing the models ourselves strengthens our conceptual understanding. Over time, repeated implementation allows us to internalize the logic allowing us to run the models in our heads, at least for some parameter values. This skill improves both research and debugging intuition. It also teaches us to be precise and systematic in our thinking. It is a mental gym.
+
+By delegating core modeling tasks (e.g., writing an NK model) entirely to LLMs, we risk introducing subtle errors (check these implied interaction matrices!), more importantly, miss out on this critical learning process. We should use these tools strategically, leveraging their strengths while preserving our own intellectual engagement with the material.
+
 Links to my projects on [GitHub](https://github.com/Mac13kW).
 
 ---
