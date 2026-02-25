@@ -25,4 +25,4 @@ FRANCE
 EMAIL: [workiewicz@essec.edu](mailto:workiewicz@essec.edu)  
 Phone: +33 1 3443 3021
 
-Visit the SMS Behavioral Strategy Interest Group's website - [<span style="color: #90EE90;">Behavioral Strategy Wiki</span>](http://www.behavioralstrategywiki.org)
+Visit the SMS Behavioral Strategy Interest Group's website - [<span style="color: #2E8B57;">Behavioral Strategy Wiki</span>](http://www.behavioralstrategywiki.org)

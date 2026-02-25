@@ -13,7 +13,7 @@ title: "Curriculum Vitae"
 
 <div style="clear: both; text-align: left;">
 
-[Download CV (PDF)](/files/cv_jan_2026.pdf)
+[<span style="color: #2E8B57;">Download CV (PDF)</span>](/files/cv_jan_2026.pdf)
 
 </div>
 
