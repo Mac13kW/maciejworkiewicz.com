@@ -13,7 +13,7 @@ Organization design, Behavioral strategy, Organizational learning and adaptation
 
 <div style="font-size: 0.9rem;">
 
-Sengul M. & Workiewicz M. forthcoming. **Co-Managing In Multi-Subsidiary Firms: The Role Of Complementary And Substitutive Interdependencies.** *Organization Science.*
+Sengul M. & Workiewicz M. forthcoming. **Co-Managing In Multi-Subsidiary Firms: The Role Of Complementary And Substitutive Interdependencies.** *Organization Science.* [<span style="color: #2E8B57;">[link]</span>](https://pubsonline.informs.org/doi/full/10.1287/orsc.2023.18197)
 
 Pham D. & Rios L. & Workiewicz M. forthcoming. **When do firms learn by hiring? How complexity moderates the value of new knowledge.** *Strategic Management Journal.* [<span style="color: #2E8B57;">[link]</span>](https://sms.onlinelibrary.wiley.com/doi/full/10.1002/smj.70061)
 
