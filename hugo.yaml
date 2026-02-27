@@ -12,7 +12,8 @@ params:
       url: "https://github.com/Mac13kW"
     - name: email
       url: "mailto:workiewicz@essec.edu"
-
+  assets:
+    favicon: "/favicon.png"
 menu:
   main:
     - identifier: home
