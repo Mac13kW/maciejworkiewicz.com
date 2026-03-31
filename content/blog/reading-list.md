@@ -2,7 +2,7 @@
 title: "A reading list"
 date: 2019-10-08
 lastmod: 2026-03-31
-toc: true
+showToc: true
 tags: ["books", "reading", "strategy", "management", "AI", "geopolitics", "economics"]
 description: "A curated reading list spanning business strategy, decision-making, geopolitics, AI, philosophy of science, and more."
 ---
