@@ -25,5 +25,5 @@ FRANCE
 EMAIL: [workiewicz@essec.edu](mailto:workiewicz@essec.edu)  
 Phone: +33 1 3443 3021
 
-* Visit the **Behavioral Strategy Wiki** website at [<span style="color: #2E8B57;">www.behavioralstrategywiki.org</span>](http://www.behavioralstrategywiki.org)
+* Visit **Behavioral Strategy Wiki** at [<span style="color: #2E8B57;">www.behavioralstrategywiki.org</span>](http://www.behavioralstrategywiki.org)
 * To access the **Reading List in Strategy**, follow [<span style="color: #2E8B57;">this link</span>](/blog/reading-list/) to my blog post.
