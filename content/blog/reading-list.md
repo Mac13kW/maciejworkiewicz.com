@@ -1,7 +1,8 @@
 ---
 title: "A reading list"
 date: 2019-10-08
-lastmod: 2025-11-08
+lastmod: 2026-03-31
+toc: true
 tags: ["books", "reading", "strategy", "management", "AI", "geopolitics", "economics"]
 description: "A curated reading list spanning business strategy, decision-making, geopolitics, AI, philosophy of science, and more."
 ---
@@ -12,9 +13,9 @@ Dear fellow intellectual traveler,
 
 Over the years, many students have asked me to suggest some interesting books to expand their knowledgeof management and strategy. I would normally send a few titles at a time, but after having replied to too many such emails, I decided to finally compile a more complete list and post it on this blog.
 
-My general approach when it comes to reading is that to be good in strategy and management, one has to read broadly, as narrow minds rarely produce good ideas. To make good decisions and lead, one must understand oneself, human nature in general, individual and social psychology, sociology, politics, history, philosophy, economics, probability, technology, and much more. If that sounds like a lot, that’s because it is.
+This collection is dedicated more towards people who practice strategy rather than study it. I built it with my students and executives I meet in my classroom. My general approach when it comes to reading is that to excell in strategy and management, one has to read broadly, as narrow minds rarely produce good ideas. To make good decisions and lead, one must understand oneself, human nature in general, individual and social psychology, sociology, politics, history, philosophy, economics, probability, technology, and much more. If that sounds like a lot, that’s because it is. That is also why good strategy is a rare thing.
 
-My dad has a saying that “In life, there is no time to read good books, but only the excellent ones.” Thus, I selected only a few books per topic. However, these should serve as good places to start your explorations. Furthermore, after you have purchased some of these books on Amazon, the site's algorithms will catch up and start offering decent follow-up titles.
+My dad used to say that “In life, there is no time to read good books, but only the excellent ones.” Thus, I selected only a few books per topic rather than stuff the list with all potential book in that area. These books should serve as good places to start your explorations if you chose to go deeper. Furthermore, after you have purchased some of these books on your digital platform of choice, the site's algorithms will catch up and start offering decent follow-up titles. Alternatively, you can ask a modern LLM model to offer suggestions based on what you already liked. That role they can perform quite well.
 
 This is meant to be an evolving list. It was first created on October 8th, 2019. I expect to be mostly adding to it, but sometimes I may remove a book that I think has been superseded by a better one (remember, only the excellent books!). What this list is not? It certainly is not representative. Not only this is a list of only the books that I have read, but also the books that I found interesting, and my tastes may not be compatible with yours. I also want to say upfront that I don't necessarily agree with everything the authors say, but I found most of the information there enlightening or at least thought-provoking. Approach it with an open mind.
 
@@ -23,8 +24,6 @@ Should you buy or rent books? It really depends on the book. Some are great to h
 If you have any titles that you would recommend for me to read on these subjects, please share.
 
 Anyway, I hope you enjoy the selection... and happy reading!
-
-<!-- TODO: Add bookshelf image -->
 
 
 ## Business strategy
@@ -35,7 +34,7 @@ First, a few textbooks (this will mostly be interesting to my Master's students)
 - "The Art of Strategy" by Dixit and Nalebuff is a more advanced text bringing elements of game theory
 - "Contemporary Strategy Analysis" by Robert Grant is a very good textbook with examples and clear explanations that outline the subject step by step.
 
-### Strategy implementation (in progress)
+## Strategy implementation (in progress)
 
 - "Premonition" by Michael Lewis - what this book is not? It's definitely not boring and also not something you might have expected to see in a section on strategy implementation. Yet, I was mesmerized by the story from the first page and how it captured the personal and organizational realities of strategy-making and execution. The book recounts the steps taken by the US administration in response to the Covid pandemic and the histories of people who fought to change the poor execution of the national pandemic strategy in 2020. It shows how the open-mindedness, persistence, dedication, data, and modeling efforts of experts and scientists pushed against politics, ignorance, denial, and organizational inertia. And all wrapped in the great Michael Lewis style.
 
@@ -91,6 +90,24 @@ And for alternative views and challenges you can start with:
 - "Competing in the Age of AI" by Marco Iansiti and Karim R. Lakhani is a great book full of business cases showing how ML can be harnessed to reinvent a company's business model and gain an edge in competition.
 - "Competing on Analytics" by Davenport and Harris offers a very good overview of the different ways data and analytics (including Monte Carlo simulations and computational modeling) can help to build and strengthen a firm's competitive advantage.
 - "Co-Intelligence: Living and Working with AI" by Ethan Mollick - an excellent summary of the most recent (2024) advances in GenAI (ChatGPT) with a specific focus on management and businesses.
+
+
+## Technology (NEW)
+
+The following books definitely lean heavily towards computer and digital technologies. They reflect my personal biases in this area. However, given the extent to which digital technologies shape the world we live in, I think it is important to pay close attention to that space. The following books span the spectrum from positive to more critical perspectives on the role of technology in our lives.
+
+- "Turing's Cathedral: The Origins of the Digital Universe" by George Dyson. This book recounts the history of the building of the first modern computer (and more) at Princeton's Institute for Advanced Study and the visionaries, including John von Neumann, who made it possible.
+
+- "Hackers: Heroes of the Computer Revolution" by Steven Levy. It is a wonderful account of the origins of the true hacker culture (not the criminal kind, but the true technology enthusiasts). It chronicles the obsessive, brilliant programmers from the 1950s through the 1980s who built hacker culture (first at MIT) and laid the ethical and creative foundations of the digital world.
+
+- "Free Software, Free Society: Selected Essays of Richard M. Stallman" by Richard M. Stallman. If you have read "Hackers", you know who Stallman is. This book is a collection of his foundational essays arguing that proprietary software is a social and ethical problem, and that software freedom is essential to a free and just society. Without Stallman there would be no GNU/Linux and thus Internet and our modern economy would look vastly different (given that 90% or more of Internet infrastructure runs on that OS)
+
+- "Enshittification: Why Everything Suddenly Got Worse and What We Can Do About It" by Cory Doctorow is an analysis of how digital platforms systematically degrade their services by first capturing users, then advertisers, then extracting maximum value from both in the process degrading the very service that made them great. Indispensable to understand many of the pathologies present in the tech world.
+
+- "Burn Book: A Tech Love Story" by Kara Swisher. Speaking of tech-world pathologies, this book is a memoir by one of Silicon Valley's most feared journalists tracing her decades covering the rise of Big Tech and her growing disillusionment with the founders she once admired and the culture they created.
+
+- "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis. The former Greek Minister of Finance presents an argument that Big Tech has replaced capitalism with a new economic order in which cloud-based platforms act as feudal lords, extracting rent from all economic activity that flows through them. It is an interesting, if not provocative argument that is worth exploring.
+
 
 ## Philosophy of science
 
