@@ -17,7 +17,7 @@ Sengul M. & Workiewicz M. forthcoming. **Co-Managing In Multi-Subsidiary Firms: 
 
 Pham D. & Rios L. & Workiewicz M. forthcoming. **When do firms learn by hiring? How complexity moderates the value of new knowledge.** *Strategic Management Journal.* [<span style="color: #2E8B57;">[link]</span>](https://sms.onlinelibrary.wiley.com/doi/full/10.1002/smj.70061)
 
-Sen P. & Workiewicz M. & Puranam P. 2025. **Can LLMs Aid Analogical Reasoning for Strategic Decisions? A Comparative Study.** *Strategy Science,* Articles in Advance: pp. 1-19. [<span style="color: #2E8B57;">[link]</span>](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2025.0426) [<span style="color: #2E8B57;">[link SSRN]</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6299060)
+Sen P. & Workiewicz M. & Puranam P. 2025. **Can LLMs Aid Analogical Reasoning for Strategic Decisions? A Comparative Study.** *Strategy Science,* Articles in Advance: pp. 1-19. (*non-alphabetical order*) [<span style="color: #2E8B57;">[link]</span>](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2025.0426) [<span style="color: #2E8B57;">[link SSRN]</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6299060)
 
 Keil T. & Posen HE. & Workiewicz M. 2023. **Aspirations, Beliefs, And A New IDEA: Building On March's Other Model Of Performance Feedback.** *Academy of Management Review.* 48(4): 749-771 [<span style="color: #2E8B57;">[link]</span>](https://journals.aom.org/doi/abs/10.5465/amr.2020.0233) [<span style="color: #2E8B57;">[link SSRN]</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443685)
 
