@@ -11,19 +11,32 @@ description: "A curated reading list spanning business strategy, decision-making
 
 Dear fellow intellectual traveler,
 
-Over the years, many students have asked me to suggest some interesting books to expand their knowledgeof management and strategy. I would normally send a few titles at a time, but after having replied to too many such emails, I decided to finally compile a more complete list and post it on this blog.
+Over the years, many students have asked me to suggest some interesting books to expand their knowledge of management and strategy. I would usually send a few titles at a time, but after having replied to too many such emails, I decided to finally compile a more thorough and systematic list and post it on my blog.
 
-This collection is dedicated more towards people who practice strategy rather than study it. I built it with my students and executives I meet in my classroom. My general approach when it comes to reading is that to excell in strategy and management, one has to read broadly, as narrow minds rarely produce good ideas. To make good decisions and lead, one must understand oneself, human nature in general, individual and social psychology, sociology, politics, history, philosophy, economics, probability, technology, and much more. If that sounds like a lot, that’s because it is. That is also why good strategy is a rare thing.
+This collection of readings is dedicated more towards people who practice strategy rather than study it and I built it mainly for my students and the executives I meet in my classroom.
 
-My dad used to say that “In life, there is no time to read good books, but only the excellent ones.” Thus, I selected only a few books per topic rather than stuff the list with all potential book in that area. These books should serve as good places to start your explorations if you chose to go deeper. Furthermore, after you have purchased some of these books on your digital platform of choice, the site's algorithms will catch up and start offering decent follow-up titles. Alternatively, you can ask a modern LLM model to offer suggestions based on what you already liked. That role they can perform quite well.
+My general approach when it comes to strategy and management, or problem solving in general, is that one has to read broadly, as narrow minds rarely produce good ideas. To make better decisions, one must understand oneself, others, human nature in general, individual and social psychology, sociology, politics, history, philosophy, economics, probability, technology, and much more. If that sounds like a lot, that’s because it is. That is also why good strategy is a rare thing in business as few have patience to examine problems from multiple angles.
 
-This is meant to be an evolving list. It was first created on October 8th, 2019. I expect to be mostly adding to it, but sometimes I may remove a book that I think has been superseded by a better one (remember, only the excellent books!). What this list is not? It certainly is not representative. Not only this is a list of only the books that I have read, but also the books that I found interesting, and my tastes may not be compatible with yours. I also want to say upfront that I don't necessarily agree with everything the authors say, but I found most of the information there enlightening or at least thought-provoking. Approach it with an open mind.
+When reading broadly, the problem often is deciding what to read. My dad used to say that “In life, there is no time to read good books, but only the excellent ones.” Thus, I selected only a few books per topic rather than stuff the list with all potential book in that area. These books should serve as good places to start your explorations if you chose to go deeper. Furthermore, after you have purchased some of these books on your digital platform of choice, the site's algorithms will catch up and start offering decent follow-up titles. Alternatively, you can ask a modern LLM model to offer suggestions based on what you already liked. That role they can perform quite well.
 
-Should you buy or rent books? It really depends on the book. Some are great to have around, while some you only touch once. However, I am of the opinion that it is best to have as many books around you as possible. I routinely buy books that I don't intend to read immediately. This is because the books I haven't read yet will be staring at me, and I will know that whatever they contain, I don't know. I bought them, which means I find them worth knowing, but I see a reminder of my ignorance important. Thus, my bookshelf represents my known knowns and known unknowns.
+This is meant to be an evolving list. It was first created on October 8th, 2019. I expect to be mostly adding to it, but sometimes I may remove a book that I think has been superseded by a better one (remember, only the excellent books!).
+
+What this list is not? It certainly is not representative or exhaustive. Not only this is a list of the books that I have read, but also the books that I found interesting, and my taste may not be aligned with yours. I also want to say upfront that I don't necessarily agree with everything these authors say, but I found most of the information there important, enlightening, or at least thought-provoking. Approach it with an open mind.
+
+Should you buy or rent these books? It really depends on the book. Some are great to have around, while some you only touch once. However, I am of the opinion that it is beneficial to have as many books around as possible. I routinely buy books that I don't intend to read immediately (they go on the pile). The books I haven't read yet are an important reminder of things I don't know. I bought them because the subject appealed to me and I found it important, so when I look at them, I see a reminder of my ignorance. In other words, my bookshelf represents my known knowns and known unknowns.
 
 If you have any titles that you would recommend for me to read on these subjects, please share.
 
 Anyway, I hope you enjoy the selection... and happy reading!
+
+
+## AI and Machine Learning
+
+- "Superintelligence" by Nick Bostrom - an amazing read. The book discusses strengths, weaknesses, and risks related to AI. But be warned; after reading it you won't sleep at night.
+- "Prediction Machines" by Agarwal, Gans, and Goldfarb is an excellent book on how Machine Learning will impact organizations, industry, and society. I have read many books on ML and AI, but this one takes the crown. If you are in business and can only afford to read one book then this is the one to read. Also, you probably should change your business. You should be able to afford to read more than one book ;-)
+- "Competing in the Age of AI" by Marco Iansiti and Karim R. Lakhani is a great book full of business cases showing how ML can be harnessed to reinvent a company's business model and gain an edge in competition.
+- "Competing on Analytics" by Davenport and Harris offers a very good overview of the different ways data and analytics (including Monte Carlo simulations and computational modeling) can help to build and strengthen a firm's competitive advantage.
+- "Co-Intelligence: Living and Working with AI" by Ethan Mollick - an excellent summary of the most recent (2024) advances in GenAI (ChatGPT) with a specific focus on management and businesses.
 
 
 ## Business strategy
@@ -34,16 +47,6 @@ First, a few textbooks (this will mostly be interesting to my Master's students)
 - "The Art of Strategy" by Dixit and Nalebuff is a more advanced text bringing elements of game theory
 - "Contemporary Strategy Analysis" by Robert Grant is a very good textbook with examples and clear explanations that outline the subject step by step.
 
-## Strategy implementation (in progress)
-
-- "Premonition" by Michael Lewis - what this book is not? It's definitely not boring and also not something you might have expected to see in a section on strategy implementation. Yet, I was mesmerized by the story from the first page and how it captured the personal and organizational realities of strategy-making and execution. The book recounts the steps taken by the US administration in response to the Covid pandemic and the histories of people who fought to change the poor execution of the national pandemic strategy in 2020. It shows how the open-mindedness, persistence, dedication, data, and modeling efforts of experts and scientists pushed against politics, ignorance, denial, and organizational inertia. And all wrapped in the great Michael Lewis style.
-
-The following books are less text-book'y and offer a closer look at some of the facets of strategy and management.
-
-- "Only the Paranoid Survive" by Andrew Grove
-- "Crossing the Chasm" by Geoffrey Moore
-- "The Wide Lens" by Ron Adner
-- "Berkshire Hathaway Inc. Shareholder Letters" by Warren Buffett. You can find them [here](http://www.berkshirehathaway.com/letters/letters.html). They are an excellent read with many nuggets of wisdom scattered among the letters. And they are free.
 
 ## Decision-making and critical thinking
 
@@ -55,17 +58,8 @@ The following books are less text-book'y and offer a closer look at some of the 
 - "The Minto Pyramid Principle" by Barbara Minto is a good textbook on how to think logically and present your ideas in a clear and powerful way. If you are an aspiring consultant, you should read that.
 - "The Essence of Decision: Explaining the Cuban Missile Crisis" by Graham Allison and Philip Zelikow is an excellent book that takes an unorthodox approach (akin to the movie Roshomon) to dissect one of the most pivotal decisions of the XX-th century. The author brings three different lenses to explain how the world came close to nuclear armageddon. While vastly different, the three lenses help to understand what happened in those fateful days. The book also shows the power of taking different perspectives to understand a problem.
 
-## Geopolitics (NEW)
 
-Doing strategy without a sound understanding of geopolitics is like building castles in the air. With the current state of affairs, there is a new crop of great books on geopolitics from some of the best experts. Here is a selection that I found particularly intriguing and thought-provoking.
-
-- "Destined For War" by the one-and-only Graham Allison and "Danger Zone" by Hal Brands and Michael Beckley. Both books analyze the emerging rivalry between US and China. As you can judge from the titles, both acknowledge a profound change in the relations between the two countries and their systems of allies - away from the WTO consensus and into a new era of rivalry. Both, however, differ in terms of the drivers of that rivalry. Both are worth a read.
-- "The End Of The World Is Just A Beginning" by Peter Zeihan is another very "cheerful" title in this collection. Zeihan has been gaining readers of late because he made some good calls over the past few years (see also his "Disunited Nations"). Zeihan very nicely connects geography, demography, and energy policy into a very compelling analysis. It is one of the most engaging books on the geopolitics of the last year. I can't wait to see what counterpoints other experts will muster.
-- Speaking of different takes, "The Power Of Crisis" by Ian Bremmer from the Eurasia Group is also an excellent read, with a slightly different interpretation of the data. Btw - if you want to hear Peter Zeihan and Ian Bremmer discuss the current events together, go to the [June 2022 podcast by Sam Harris](https://www.youtube.com/watch?v=ZqsVR9Hl2oQ).
-- In terms of energy policy (for those in Europe, kind of a big deal at the moment - I am writing this in September 2022), there is no better expert than Daniel Yergin, the author of the Pulitzer-winning book "The Prize". It is, however, his new book, "The New Map", that I strongly recommend.
-- Finally, to appreciate the power of geography on geopolitics, I recommend "Prisoners of Geography" by Tim Marshall. It is a 2016 book, so it's a little old, but you know what? Geography does not change that often :-) The author's claim is that it is geography that largely causes history to echo across the ages.
-
-## Free markets and economics (NEW)
+## Economics and free markets (NEW)
 
 Here are some key (at least to me) readings that give a quick intro into the questions of the power and limitations of free markets, capitalism, and economic progress. These are not core economics readings, but collectively they outline most of the key points in the debate. A good place to start for those interested in the policy implications of key theories.
 
@@ -78,35 +72,16 @@ And for alternative views and challenges you can start with:
 - "Zombie Economics" by John Quiggin - This book explores economic theories and ideas that have been widely discredited but continue to influence policy and decision-making as if they were still valid.
 - "Why Nations Fail" by Daron Acemoglu and James A. Robinson. The book argues that institutions, not just capital or technology, are central to growth.
 
-## Value and valuation
 
-- "Valuation" by Koller, Goedhart, and Wessels is pretty much a bible of financial valuation. Appropriately written by a strategy consultancy (McKinsey) it outlines how to estimate business' value by taking into account the fundamentals of the business. Only the chapter on multiples is shaky - I guess it was a bow to an enduring superstition.
-- "The Blue Line Imperative" by Kevin Kaiser and David Young highlights an important distinction between a company's price (stock price) and a company's value (NPV). I especially enjoyed the list of questions at the end of the book. Armed with those questions, you will have a much better understanding of how your organization creates or destroys value.
+## Geopolitics (NEW)
 
-## AI and Machine Learning
+Doing strategy without a sound understanding of geopolitics is like building castles in the air. With the current state of affairs, there is a new crop of great books on geopolitics from some of the best experts. Here is a selection that I found particularly intriguing and thought-provoking.
 
-- "Superintelligence" by Nick Bostrom - an amazing read. The book discusses strengths, weaknesses, and risks related to AI. But be warned; after reading it you won't sleep at night.
-- "Prediction Machines" by Agarwal, Gans, and Goldfarb is an excellent book on how Machine Learning will impact organizations, industry, and society. I have read many books on ML and AI, but this one takes the crown. If you are in business and can only afford to read one book then this is the one to read. Also, you probably should change your business. You should be able to afford to read more than one book ;-)
-- "Competing in the Age of AI" by Marco Iansiti and Karim R. Lakhani is a great book full of business cases showing how ML can be harnessed to reinvent a company's business model and gain an edge in competition.
-- "Competing on Analytics" by Davenport and Harris offers a very good overview of the different ways data and analytics (including Monte Carlo simulations and computational modeling) can help to build and strengthen a firm's competitive advantage.
-- "Co-Intelligence: Living and Working with AI" by Ethan Mollick - an excellent summary of the most recent (2024) advances in GenAI (ChatGPT) with a specific focus on management and businesses.
-
-
-## Technology (NEW)
-
-The following books definitely lean heavily towards computer and digital technologies. They reflect my personal biases in this area. However, given the extent to which digital technologies shape the world we live in, I think it is important to pay close attention to that space. The following books span the spectrum from positive to more critical perspectives on the role of technology in our lives.
-
-- "Turing's Cathedral: The Origins of the Digital Universe" by George Dyson. This book recounts the history of the building of the first modern computer (and more) at Princeton's Institute for Advanced Study and the visionaries, including John von Neumann, who made it possible.
-
-- "Hackers: Heroes of the Computer Revolution" by Steven Levy. It is a wonderful account of the origins of the true hacker culture (not the criminal kind, but the true technology enthusiasts). It chronicles the obsessive, brilliant programmers from the 1950s through the 1980s who built hacker culture (first at MIT) and laid the ethical and creative foundations of the digital world.
-
-- "Free Software, Free Society: Selected Essays of Richard M. Stallman" by Richard M. Stallman. If you have read "Hackers", you know who Stallman is. This book is a collection of his foundational essays arguing that proprietary software is a social and ethical problem, and that software freedom is essential to a free and just society. Without Stallman there would be no GNU/Linux and thus Internet and our modern economy would look vastly different (given that 90% or more of Internet infrastructure runs on that OS)
-
-- "Enshittification: Why Everything Suddenly Got Worse and What We Can Do About It" by Cory Doctorow is an analysis of how digital platforms systematically degrade their services by first capturing users, then advertisers, then extracting maximum value from both in the process degrading the very service that made them great. Indispensable to understand many of the pathologies present in the tech world.
-
-- "Burn Book: A Tech Love Story" by Kara Swisher. Speaking of tech-world pathologies, this book is a memoir by one of Silicon Valley's most feared journalists tracing her decades covering the rise of Big Tech and her growing disillusionment with the founders she once admired and the culture they created.
-
-- "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis. The former Greek Minister of Finance presents an argument that Big Tech has replaced capitalism with a new economic order in which cloud-based platforms act as feudal lords, extracting rent from all economic activity that flows through them. It is an interesting, if not provocative argument that is worth exploring.
+- "Destined For War" by the one-and-only Graham Allison and "Danger Zone" by Hal Brands and Michael Beckley. Both books analyze the emerging rivalry between US and China. As you can judge from the titles, both acknowledge a profound change in the relations between the two countries and their systems of allies - away from the WTO consensus and into a new era of rivalry. Both, however, differ in terms of the drivers of that rivalry. Both are worth a read.
+- "The End Of The World Is Just A Beginning" by Peter Zeihan is another very "cheerful" title in this collection. Zeihan has been gaining readers of late because he made some good calls over the past few years (see also his "Disunited Nations"). Zeihan very nicely connects geography, demography, and energy policy into a very compelling analysis. It is one of the most engaging books on the geopolitics of the last year. I can't wait to see what counterpoints other experts will muster.
+- Speaking of different takes, "The Power Of Crisis" by Ian Bremmer from the Eurasia Group is also an excellent read, with a slightly different interpretation of the data. Btw - if you want to hear Peter Zeihan and Ian Bremmer discuss the current events together, go to the [June 2022 podcast by Sam Harris](https://www.youtube.com/watch?v=ZqsVR9Hl2oQ).
+- In terms of energy policy (for those in Europe, kind of a big deal at the moment - I am writing this in September 2022), there is no better expert than Daniel Yergin, the author of the Pulitzer-winning book "The Prize". It is, however, his new book, "The New Map", that I strongly recommend.
+- Finally, to appreciate the power of geography on geopolitics, I recommend "Prisoners of Geography" by Tim Marshall. It is a 2016 book, so it's a little old, but you know what? Geography does not change that often :-) The author's claim is that it is geography that largely causes history to echo across the ages.
 
 
 ## Philosophy of science
@@ -123,9 +98,6 @@ The further three books are perhaps not your standard read on the subject, but t
 - "Fashionable Nonsense" by Alan Sokal and Jean Bricmon. Ever heard of the Sokal hoax? Google it, it is as entertaining/depressing as it is instructive. The book consists of different examples of "fashionable nonsense" and a discussion of science in general. I would skip the examples and go for the discussion.
 - "Flim-Flam!" by James Randi – probably my favorite book on this subject. Written by a professional magician who decided to expose fraud and superstition in his profession. For a long time, he offered a [one-million-dollar prize](http://en.wikipedia.org/wiki/One_Million_Dollar_Paranormal_Challenge) to anyone who, under **controlled conditions,** demonstrated supernatural powers. Many tried. None succeeded. Perhaps one million dollars is not enough? Btw these rumors that vaccines can magnetize a person so that they attract metal objects - he deals with that too. The book is pure fun to read.
 
-## Power and politics vs. kindness
-
-- This is a complex topic, and many people feel torn between poetry and the prose of life. Here is one way to approach it. Start with reading "Give and Take" by Adam Grant first, then "Power" by Jeffrey Pfeffer. Now, these two books take very different approaches to the subject, and they demonstrate the contradictions very well. To make sense of how can these two different approaches coexist, I found "The Evolution of Cooperation" by Axelrod very insightful; particularly in the last two chapters. By the way, if you were looking for mathematical proof that the universe favors good people, you will find it in Axelrod's book. It still amazes me how can such a simple idea explain so much about the world around us.
 
 ## Personal finance and ethical behavior
 
@@ -146,6 +118,7 @@ In the meantime, or if you want to know more, I can recommend:
 - "Stop Acting Rich" by Thomas J. Stanley, and
 - "The Total Money Makeover" by Dave Ramsey.
 
+
 ## Personal growth
 
 - "A Guide to the Good Life: The Ancient Art of Stoic Joy" by William Irvine is an excellent introduction to one of the greatest philosophies of antiquity, which is still very relevant today (in fact, it inspired modern Cognitive Behavioral Therapy). There are many books published recently, some of better and some worse. I recommend starting with this modern classic and, if you want to go further, read also "How to be a Stoic" by Massimo Pigliucci.
@@ -157,7 +130,55 @@ In the meantime, or if you want to know more, I can recommend:
 - "Digital Minimalism" by Cal Newport (again) is for those who can't part with your mobile phone ;-) The added bonus to freeing more time will be your mind unlearning to seek distractions, your attention span will get longer, and you will be able to concentrate better - all important qualities of a strategic mind.
 - "Subtle Art of Not Giving a F\*ck" by Mark Manson is a humorous and thought-provoking read (at least the first 2/3 of the book)
 - "Grit" by Angela Duckworth - how to stick to the things that are important
-- If you are a little bit stuck in your career or perhaps want a challenging perspective on career and life choices, you can't go wrong with "The Algebra of Wealth" by Scott Galloway
+- If you are a little bit stuck in your career or perhaps want a challenging perspective on career and life choices, you can't go wrong with "The Algebra of Wealth" by Scott Galloway.
+
+
+## Power and politics vs. kindness
+
+- This is a complex topic, and many people feel torn between poetry and the prose of life. Here is one way to approach it. Start with reading "Give and Take" by Adam Grant first, then "Power" by Jeffrey Pfeffer. Now, these two books take very different approaches to the subject, and they demonstrate the contradictions very well. To make sense of how can these two different approaches coexist, I found "The Evolution of Cooperation" by Axelrod very insightful; particularly in the last two chapters. By the way, if you were looking for mathematical proof that the universe favors good people, you will find it in Axelrod's book. It still amazes me how can such a simple idea explain so much about the world around us.
+
+
+## Social psychology
+
+- "Social Psychology" by Elliot Aronson - an excellent text; obligatory for all extraterrestrials visiting Earth ;-) in a nutshell, it is on "the influences that people have upon the beliefs, feelings, and behavior of others".
+- "Social Animal" by Elliot Aronson is a classic I have read in my graduate class. Conformity and cognitive dissonance are among many interesting ideas discussed there.
+- "Influence: The Psychology of Persuasion" by Robert B. Cialdini will certainly open your eyes to the world of human manipulation.
+
+
+## Strategy implementation (in progress)
+
+- "Premonition" by Michael Lewis - what this book is not? It's definitely not boring and also not something you might have expected to see in a section on strategy implementation. Yet, I was mesmerized by the story from the first page and how it captured the personal and organizational realities of strategy-making and execution. The book recounts the steps taken by the US administration in response to the Covid pandemic and the histories of people who fought to change the poor execution of the national pandemic strategy in 2020. It shows how the open-mindedness, persistence, dedication, data, and modeling efforts of experts and scientists pushed against politics, ignorance, denial, and organizational inertia. And all wrapped in the great Michael Lewis style.
+
+The following books are less text-book'y and offer a closer look at some of the facets of strategy and management.
+
+- "Only the Paranoid Survive" by Andrew Grove
+- "Crossing the Chasm" by Geoffrey Moore
+- "The Wide Lens" by Ron Adner
+- "Berkshire Hathaway Inc. Shareholder Letters" by Warren Buffett. You can find them [here](http://www.berkshirehathaway.com/letters/letters.html). They are an excellent read with many nuggets of wisdom scattered among the letters. And they are free.
+
+
+## Technology (NEW)
+
+The following books definitely lean heavily towards computer and digital technologies. They reflect my personal biases in this area. However, given the extent to which digital technologies shape the world we live in, I think it is important to pay close attention to that space. The following books span the spectrum from positive to more critical perspectives on the role of technology in our lives.
+
+- "Turing's Cathedral: The Origins of the Digital Universe" by George Dyson. This book recounts the history of the building of the first modern computer (and more) at Princeton's Institute for Advanced Study and the visionaries, including John von Neumann, who made it possible.
+
+- "Hackers: Heroes of the Computer Revolution" by Steven Levy. It is a wonderful account of the origins of the true hacker culture (not the criminal kind, but the true technology enthusiasts). It chronicles the obsessive, brilliant programmers from the 1950s through the 1980s who built hacker culture (first at MIT) and laid the ethical and creative foundations of the digital world.
+
+- "Free Software, Free Society: Selected Essays of Richard M. Stallman" by Richard M. Stallman. If you have read "Hackers", you know who Stallman is. This book is a collection of his foundational essays arguing that proprietary software is a social and ethical problem, and that software freedom is essential to a free and just society. Without Stallman there would be no GNU/Linux and thus Internet and our modern economy would look vastly different (given that 90% or more of Internet infrastructure runs on that OS)
+
+- "Enshittification: Why Everything Suddenly Got Worse and What We Can Do About It" by Cory Doctorow is an analysis of how digital platforms systematically degrade their services by first capturing users, then advertisers, then extracting maximum value from both in the process degrading the very service that made them great. Indispensable to understand many of the pathologies present in the tech world.
+
+- "Burn Book: A Tech Love Story" by Kara Swisher. Speaking of tech-world pathologies, this book is a memoir by one of Silicon Valley's most feared journalists tracing her decades covering the rise of Big Tech and her growing disillusionment with the founders she once admired and the culture they created.
+
+- "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis. The former Greek Minister of Finance presents an argument that Big Tech has replaced capitalism with a new economic order in which cloud-based platforms act as feudal lords, extracting rent from all economic activity that flows through them. It is an interesting, if not provocative argument that is worth exploring.
+
+
+## Value and valuation
+
+- "Valuation" by Koller, Goedhart, and Wessels is pretty much a bible of financial valuation. Appropriately written by a strategy consultancy (McKinsey) it outlines how to estimate business' value by taking into account the fundamentals of the business. Only the chapter on multiples is shaky - I guess it was a bow to an enduring superstition.
+- "The Blue Line Imperative" by Kevin Kaiser and David Young highlights an important distinction between a company's price (stock price) and a company's value (NPV). I especially enjoyed the list of questions at the end of the book. Armed with those questions, you will have a much better understanding of how your organization creates or destroys value.
+
 
 ## Where we came from and where we are heading
 
@@ -166,11 +187,6 @@ In the meantime, or if you want to know more, I can recommend:
 - "Sapiens" and "Nexus" by Noah Yuval Harari immediately made it to my absolute top 10 books of all time. Books two and three of the three that Harari wrote ("Homo Deus" and "21 rules for 21st Century") are very good but not as good as the other two.
 - "Cosmic Queries" by one of my favorite astrophysicists Neil deGrasse Tyson. DeGrasse Tyson takes us on a tour of some of the key questions, like "What is our place in the universe?", "How do we know what we know?", "How did it all begin?", and "How will it end?". As a bonus, you get beautiful graphics courtesy of the National Geographic, the publisher of the book.
 
-## Social psychology
-
-- "Social Psychology" by Elliot Aronson - an excellent text; obligatory for all extraterrestrials visiting Earth ;-) in a nutshell, it is on "the influences that people have upon the beliefs, feelings, and behavior of others".
-- "Social Animal" by Elliot Aronson is a classic I have read in my graduate class. Conformity and cognitive dissonance are among many interesting ideas discussed there.
-- "Influence: The Psychology of Persuasion" by Robert B. Cialdini will certainly open your eyes to the world of human manipulation.
 
 ## Miscellaneous
 
